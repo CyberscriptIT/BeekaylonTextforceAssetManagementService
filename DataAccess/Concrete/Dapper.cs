@@ -1,8 +1,8 @@
 ﻿using TextForce.AssetManagement.Service.DataAccess.Abstract;
-using TextForce.AssetManagement.Service.DataAccess.Infrastructure;
 using Dapper;
 using System.Data;
 using System.Data.Common;
+using TextForce.AssetManagement.Service.DataAccess.Infrastucture;
 
 namespace TextForce.AssetManagement.Service.DataAccess.Concrete
 {

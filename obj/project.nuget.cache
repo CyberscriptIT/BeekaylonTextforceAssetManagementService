@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "LO0IsEjjjGy2sFYlOGTrD5zfrHI1l5KqiXnk/6x7xVDnNzXo+ldbth75gqujps0ZfHIT1BQZaCWHtpw0bqGxpw==",
+  "dgSpecHash": "ZrcifkpGvpw9TrsEptSJ1teJfcoy0WQ4JbkRamfsbdTYBbCod150jzScrx4Wf6h4J/i0a2L7B1ml9i9b2Xfzdg==",
   "success": true,
-  "projectFilePath": "D:\\Pooja Jagtap\\Other\\New folder\\TextForce.Integration.Service\\TextForce.AssetManagement.Service.csproj",
+  "projectFilePath": "D:\\Pooja Jagtap\\TextForce ERP\\TextForce.AssetManagement.Service\\TextForce.AssetManagement.Service.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\A\\.nuget\\packages\\dapper\\2.1.66\\dapper.2.1.66.nupkg.sha512",
     "C:\\Users\\A\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\9.0.1\\microsoft.bcl.asyncinterfaces.9.0.1.nupkg.sha512",

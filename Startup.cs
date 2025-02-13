@@ -1,7 +1,7 @@
 ﻿using Serilog.Events;
 using Serilog;
 using Microsoft.Extensions.FileProviders;
-using TextForce.AssetManagement.Service.DataAccess.Infrastructure;
+using TextForce.AssetManagement.Service.DataAccess.Infrastucture;
 
 namespace TextForce.AssetManagement.Service
 {

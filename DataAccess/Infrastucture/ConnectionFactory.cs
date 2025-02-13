@@ -1,9 +1,7 @@
-﻿
-using TextForce.AssetManagement.Service.DataAccess.Infrastructure;
-using System.Data;
+﻿using System.Data;
 using System.Data.SqlClient;
 
-namespace TextForce.AssetManagement.Service.DataAccess.Infrastructure
+namespace TextForce.AssetManagement.Service.DataAccess.Infrastucture
 {
     public class ConnectionFactory : IConnectionFactory, IDisposable
     {
@@ -28,6 +26,6 @@ namespace TextForce.AssetManagement.Service.DataAccess.Infrastructure
 
         public void Dispose()
         {
-         }
+        }
     }
 }

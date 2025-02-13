@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Pooja Jagtap\\Other\\New folder\\TextForce.Integration.Service\\TextForce.AssetManagement.Service.csproj": {}
+    "D:\\Pooja Jagtap\\TextForce ERP\\TextForce.AssetManagement.Service\\TextForce.AssetManagement.Service.csproj": {}
   },
   "projects": {
-    "D:\\Pooja Jagtap\\Other\\New folder\\TextForce.Integration.Service\\TextForce.AssetManagement.Service.csproj": {
+    "D:\\Pooja Jagtap\\TextForce ERP\\TextForce.AssetManagement.Service\\TextForce.AssetManagement.Service.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Pooja Jagtap\\Other\\New folder\\TextForce.Integration.Service\\TextForce.AssetManagement.Service.csproj",
+        "projectUniqueName": "D:\\Pooja Jagtap\\TextForce ERP\\TextForce.AssetManagement.Service\\TextForce.AssetManagement.Service.csproj",
         "projectName": "TextForce.AssetManagement.Service",
-        "projectPath": "D:\\Pooja Jagtap\\Other\\New folder\\TextForce.Integration.Service\\TextForce.AssetManagement.Service.csproj",
+        "projectPath": "D:\\Pooja Jagtap\\TextForce ERP\\TextForce.AssetManagement.Service\\TextForce.AssetManagement.Service.csproj",
         "packagesPath": "C:\\Users\\A\\.nuget\\packages\\",
-        "outputPath": "D:\\Pooja Jagtap\\Other\\New folder\\TextForce.Integration.Service\\obj\\",
+        "outputPath": "D:\\Pooja Jagtap\\TextForce ERP\\TextForce.AssetManagement.Service\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
